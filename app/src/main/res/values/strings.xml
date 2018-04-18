@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Программа</string>
+    <string name="clamps">Описание</string>
+    <string name="saws">Описание</string>
+    <string name="drills">Урпавление</string>
+    <string name="sanders">Отправители</string>
+    <string name="routers">Описание</string>
+    <string name="more">Больше</string>
+    <string name="about">О чем</string>
+    <string name="stationary">Товары</string>
+    <string name="handheld">Описание</string>
+    <string name="battery">Описание1</string>
+    <string name="clamps_description">Описсание</string>
+    <string name="saws_description">Описание</string>
+    <string name="drills_description">Описание</string>
+    <string name="sanders_description">Описание</string>
+    <string name="routers_description">Описание</string>
+    <string name="more_description">Описание</string>
+    <string name="title_activity_tool_detail">Детали</string>
+    <string name="hello_world">Привет мир !</string>
+    <string name="action_settings">Настройки</string>
+</resources>
